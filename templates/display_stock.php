@@ -1,11 +1,5 @@
 <div>
-    <p>
-        Symbol: <?= $symbol ?>
-        <br>
-        Name: <?= $name ?> 
-        <br>
-        Price: <?= $price ?>
-    </p>
+    <p>A share of <?= $name ?> (<?= strtoupper($symbol) ?>) costs $<?= $price ?>.</p>
 </div>
 
 

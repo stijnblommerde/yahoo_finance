@@ -12,8 +12,14 @@
     text-align: center;
 }
 
-#top #logo {
+#top #logo 
+{
     margin: 20px;
+}
+
+#top .navi {
+    margin: 0 20px;
+    margin-bottom: 20px;
 }
 
 #middle .form-control
@@ -23,11 +29,6 @@
 
     /* override Bootstrap's 100% width for form controls */
     width: auto;
-}
-
-#middle .navi 
-{
-    margin: 25px 25px 0 0;
 }
 
 #middle th, tr, td 

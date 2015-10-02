@@ -3,22 +3,19 @@
     /**
      * constants.php
      *
-     * Computer Science 50
-     * Problem Set 7
-     *
      * Global constants.
      */
 
-    // your database's name
-    define("DATABASE", "pset7");
+    // database name
+    define("DATABASE", "yahoo_finance");
 
-    // your database's password
+    // database password
     define("PASSWORD", "crimson");
 
-    // your database's server
+    // database server
     define("SERVER", "localhost");
 
-    // your database's username
-    define("USERNAME", "jharvard");
+    // database username
+    define("USERNAME", "stijnblommerde");
 
 ?>

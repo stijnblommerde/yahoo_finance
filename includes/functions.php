@@ -3,9 +3,6 @@
     /**
      * functions.php
      *
-     * Computer Science 50
-     * Problem Set 7
-     *
      * Helper functions.
      */
 
